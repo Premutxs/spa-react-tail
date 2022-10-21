@@ -1,3 +1,3 @@
 SPA con React & Tailwind CSS
 
-By Premutxs @2022
+By @Premutxs™ 2022
